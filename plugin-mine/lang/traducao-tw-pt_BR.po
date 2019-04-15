@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: traducao.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-16 12:15+0000\n"
+"PO-Revision-Date: 2017-11-16 12:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: pt_BR\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Tradução Plugin"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.treinaweb.com.br"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Décimo plugin do curso de WordPress desenvolvimentos de Plugins do Treinaweb."
+msgstr ""
+
+#. Author of the plugin
+msgid "Treinaweb Cursos"
+msgstr ""
+
+#: stdin:42
+msgid "Hello World"
+msgstr "Olá Mundo"
+
+#: stdin:46
+msgid "This plugin is in English"
+msgstr "Esse plugin é em Português"
