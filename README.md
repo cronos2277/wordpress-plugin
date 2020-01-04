@@ -4,4 +4,4 @@ Esse curso eu terminei antes de estudar o GitHub, esse é o motivo de poucos com
 
 # WordPress Plugin
 This wordpress plugin was did while the treinaweb course, the code was commented in brazilian portuguese.
-I have been finish this curso before began studying github, this is the motive for few commits.
+I have been finish this before began studying github, this is the motive for few commits.
